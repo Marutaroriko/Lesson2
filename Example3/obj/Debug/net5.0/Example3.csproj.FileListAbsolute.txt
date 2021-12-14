@@ -1,0 +1,15 @@
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/Example3.deps.json
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/Example3.runtimeconfig.json
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/Example3.runtimeconfig.dev.json
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/Example3.dll
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/ref/Example3.dll
+/Users/maryatar/Documents/Lesson2/Example3/bin/Debug/net5.0/Example3.pdb
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.csproj.AssemblyReference.cache
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.AssemblyInfoInputs.cache
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.AssemblyInfo.cs
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.csproj.CoreCompileInputs.cache
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.dll
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/ref/Example3.dll
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.pdb
+/Users/maryatar/Documents/Lesson2/Example3/obj/Debug/net5.0/Example3.genruntimeconfig.cache
